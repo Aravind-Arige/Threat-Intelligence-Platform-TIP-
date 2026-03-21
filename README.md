@@ -129,7 +129,7 @@ python3 week2_siem/normalizer.py
 python3 week2_siem/elk_pusher.py
 
 # Week 3 — Start the policy enforcement daemon (Ctrl+C to stop)
- python3 week3_enforcer/policy_daemon.py
+sudo python3 week3_enforcer/policy_daemon.py
 
 # Week 4 — List all blocked IPs
 python3 week4_dashboard/rollback_manager.py list
