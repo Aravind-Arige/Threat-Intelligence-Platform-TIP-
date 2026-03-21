@@ -62,8 +62,8 @@ echo "vm.max_map_count=262144" | sudo tee -a /etc/sysctl.conf
 ### Step 2 — Clone and configure
 
 ```bash
-git clone https://github.com/pruthviraj-oo7/Advanced-Threat-Intelligence-Platform-TIP-Dynamic-Policy-Enforcer.git
-cd Advanced-Threat-Intelligence-Platform-TIP-Dynamic-Policy-Enforcer
+git clone https://github.com/Aravind-Arige/Project1.git
+cd Project1
 ```
 
 Add your free API keys to `config/config.yaml`:
