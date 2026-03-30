@@ -91,7 +91,7 @@ python3 -m venv venv
 source venv/bin/activate
 
 # Install all required packages
-pip install requests pymongo "elasticsearch==8.11.0" pyyaml aiohttp beautifulsoup4 python-dateutil validators schedule APScheduler colorlog pytest --break-system-packages
+pip3 install requests pymongo "elasticsearch==8.11.0" pyyaml aiohttp beautifulsoup4 python-dateutil validators schedule APScheduler colorlog pytest --break-system-packages
 ```
 
 > **Note:** Every time you open a new terminal, activate the venv first with `source venv/bin/activate` before running any scripts.
